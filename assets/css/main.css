@@ -2311,6 +2311,7 @@ input, select, textarea {
 			flex-direction: column;
 			position: relative;
 			width: 100%;
+			background-image: url("../../images/overlay.png"), linear-gradient(60deg, #004aad, #072b54);
 		}
 
 			.panel > .inner.columns {
