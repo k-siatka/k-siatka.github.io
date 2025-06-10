@@ -1822,6 +1822,11 @@ input, select, textarea {
 			flex-wrap: wrap;
 		}
 
+		.gallery.group a.image {
+			margin: 0 1rem 1rem 0;
+			display: inline-block;
+		}
+
 			.gallery .group > * {
 				height: 50%;
 			}
