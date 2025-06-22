@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins:wght@600&display=swap');
+
+header {
+	max-width: 1500px;
+	margin: 0 auto;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+body {
+  background-color: #191919;
+  color: #fff;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 4rem;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.highlight1 {
+	color: #ffd500;
+}
+
+.highlight2 {
+	color: #23ad00;
+}
+
+a {
+  color: #16abb9;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+}
+
+a:hover {
+  color: #1acddd;
+}
+
+.profile-pic {
+  display: block;
+  margin: 2rem auto;
+  width: 420px;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.gitnux-stat {
+  display: block;
+  margin: 2rem auto;
+  width: 700px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+}
